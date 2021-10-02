@@ -1,2 +1,2 @@
-# site-curiosidade-android
-Site que apresenta a história e a evolução do Android
+# Conheça a História e a Evolução do ANDROID!
+Curiosidades sobre a evolução do ANDROID.
